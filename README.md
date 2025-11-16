@@ -53,3 +53,27 @@ GitHub Struktura
 │   └── Napredni-Moduli.md
 │
 └── README.md
+
+# eHrvatska Core – Institucije, Strategija i Dokumentacija
+
+Ovo je centralni repozitorij za razvoj, održavanje i arhiviranje 
+institucija, znanja, strategije i projekata eHrvatske u eRepubliku,
+uz paralelnu primjenjivost na RL Hrvatsku (vizija, vrijednosti,
+upravljanje, komunikacija, strategija, organizacija rada).
+
+## Svrha
+- Uspostava stabilnih i trajnih institucija
+- Jasna struktura odgovornosti
+- Transparentnost i kontinuitet rada
+- Obuka novih i postojećih članova
+- Jedinstveni sustav za planiranje i provedbu
+
+## Struktura
+Repozitorij je podijeljen na tematske cjeline (vidi mape).
+
+## GitBook integracija
+Ovaj repozitorij služi kao izvor za GitBook dokumentaciju.
+
+## Licenca
+Internal use only (eHR community).
+
